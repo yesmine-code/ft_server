@@ -1,0 +1,1 @@
+sudo docker run -d -p8080:80 hello 
